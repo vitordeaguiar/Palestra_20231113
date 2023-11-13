@@ -1,0 +1,16 @@
+{
+  "name": "test_duckduck_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run --record"
+  },
+  "keywords": [],
+  "author": "Vitor de Aguiar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.5.0"
+  }
+}
